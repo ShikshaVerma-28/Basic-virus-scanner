@@ -2,11 +2,9 @@ Antivirus – Mini Project
 
 A basic virus scanner web app built with React.js.
 
-Users can upload a file → scan it → see results.
+Users can upload a file - scan it - see results.
 
-Mock Scan Mode → works without an API key (returns Safe/Infected randomly).
-
-VirusTotal API Integration → if you set VT_API_KEY, it sends the file to VirusTotal for a real scan.
+Mock Scan Mode - works without an API key (returns Safe/Infected randomly).
 
 Features
 
@@ -22,15 +20,13 @@ Friendly error messages for large files and API rate limits.
 
 Tech Stack
 
-Frontend: React.js (Vite), HTML, CSS
+Frontend: React.js, HTML, CSS
 
 Backend: Node.js/Express or Vercel Serverless Function
 
-API: VirusTotal (optional)
-
 Getting Started
 1. Clone Repo
-git clone https://github.com/your-username/antivirus-app.git
+git clone https://github.com/ShikshaVerma-28/Basic-virus-scanner/tree/main
 cd antivirus-app
 
 2. Install Dependencies
