@@ -26,7 +26,7 @@ Backend: Node.js/Express or Vercel Serverless Function
 
 Getting Started
 1. Clone Repo
-git clone https://github.com/ShikshaVerma-28/Basic-virus-scanner/tree/main
+git clone [https://github.com/ShikshaVerma-28/Basic-virus-scanner/tree/main]
 cd antivirus-app
 
 2. Install Dependencies
@@ -49,7 +49,7 @@ Backend runs on http://localhost:5000
 If using Vercel, place the backend file inside /api/scan.js instead.
 
 Demo:
-Live Demo: [Your Netlify/Vercel link here]
+Live Demo: [https://basic-virus-scanner.vercel.app/]
 
 Author:
 
